@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+pindahkan folder API ke htdocs
+ganti url dalam file main.dart sesuai dengan folder API
 ## Getting Started
 
 This project is a starting point for a Flutter application.
